@@ -1,12 +1,7 @@
-Run Project 
-
+Run Project
 First, copy HTTPS or SSH of the repo than use git clone into your terminal or Git bash terminal and open project into your IDE.
 
 Step 2:
-
-cd car-dealer-app/
-
-Step 3:
 
 npm run dev
 
